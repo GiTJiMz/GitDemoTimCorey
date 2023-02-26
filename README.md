@@ -1,5 +1,5 @@
 # Git Demo Tim Corey
-This i a demo app for the Git course.
+This is a sample repository for the Git course.
 
 ##  How To Work With Git
 1.  git checkout main
